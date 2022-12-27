@@ -11,7 +11,6 @@ public class Main {
             String userMove = "";
             String computerMove = "";
 
-            //display welcome text
             System.out.println("Lets play Rock, Paper Scissor!");
             //prompt userMove input
             System.out.println("Select your move: R, P, S");
