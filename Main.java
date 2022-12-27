@@ -37,6 +37,7 @@ public class Main {
         }
     }
 
+    //Method to generate random computer movr
     public static String getComputerMove() {
         int randomNum = (int) ((Math.random() * 3) + 1);
         String computerMove1;
